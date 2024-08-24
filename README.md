@@ -25,10 +25,10 @@
 
 # Built With
 
-> [!IMPORTANT]
-> TODO
+- Next.js
+- TypeScript
+- Prisma
 
 # License
 
-> [!IMPORTANT]
-> TODO
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
