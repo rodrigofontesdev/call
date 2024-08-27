@@ -7,6 +7,7 @@
 
 - Node.js
 - Docker
+- MySQL
 - Google Account
 - Git
 
