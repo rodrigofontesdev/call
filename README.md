@@ -5,8 +5,10 @@
 
 # Prerequisites
 
-> [!IMPORTANT]
-> TODO
+- Node.js
+- Docker
+- Google Account
+- Git
 
 # Getting Started
 
